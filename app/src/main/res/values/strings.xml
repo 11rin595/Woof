@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_koda">Koda</string>
+    <string name="dog_description_koda">Meows in protest when left out</string>
+    <string name="dog_name_lola">Lola</string>
+    <string name="dog_description_lola">Typewriters are fun to sleep on</string>
+    <string name="dog_name_frankie">Frankie</string>
+    <string name="dog_description_frankie">Steals socks from the laundry</string>
+    <string name="dog_name_nox">Nox</string>
+    <string name="dog_description_nox">Meeting new dogs is my favorite</string>
+    <string name="dog_name_faye">Faye</string>
+    <string name="dog_description_faye">Barking at the mail carrier</string>
+    <string name="dog_name_bella">Bella</string>
+    <string name="dog_description_bella">Chasing butterflies in the garden</string>
+    <string name="dog_name_moana">Moana</string>
+    <string name="dog_description_moana">Taking long naps in the sun</string>
+    <string name="dog_name_tzeitel">Tzeitel</string>
+    <string name="dog_description_tzeitel">Chewing on my favorite chew toy</string>
+    <string name="about">About</string>
+    <string name="years_old">%d years old</string>
+</resources>
